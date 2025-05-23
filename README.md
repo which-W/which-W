@@ -9,7 +9,7 @@
 ```cpp
 class Developer {
 private:
-    std::string name = "Your Name";
+    std::string name = "WGT";
     std::vector<std::string> languages = {"C++", "Python", "JavaScript"};
     std::vector<std::string> specialties = {
         "Systems Programming", 
