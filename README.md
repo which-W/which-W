@@ -1,383 +1,224 @@
-# 🚀 C++ Engineering Portfolio
+# Hi there, I'm [WGT] 👋
 
 <div align="center">
-
-
-```
-   ██████╗██████╗ ██████╗     ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
-  ██╔════╝██╔══██╗██╔══██╗    ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
-  ██║     ██████╔╝██████╔╝    █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
-  ██║     ██╔═══╝ ██╔═══╝     ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
-  ╚██████╗██║     ██║         ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
-   ╚═════╝╚═╝     ╚═╝         ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
-
-**🎯 Advanced C++ System Development & Architecture**
-
-[![C++](https://img.shields.io/badge/C%2B%2B-17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![STL](https://img.shields.io/badge/STL-Custom%20Implementation-FF6B6B?style=for-the-badge)](https://github.com/yourusername)
-[![Multi-Threading](https://img.shields.io/badge/Multi--Threading-Expert-4ECDC4?style=for-the-badge)](https://github.com/yourusername)
-[![System Design](https://img.shields.io/badge/System%20Design-Architect-45B7D1?style=for-the-badge)](https://github.com/yourusername)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=C%2B%2B+Systems+Developer;High-Performance+Computing+Enthusiast;Network+Programming+Specialist" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=blue&label=Followers" />
+  <img src="https://img.shields.io/github/stars/yourusername?style=flat-square&color=yellow&label=Stars" />
+</div>
 
-## 🌟 Tech Stack Mastery
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-### 🔥 Core Technologies
+## 🚀 About Me
 
 ```cpp
-namespace TechStack {
-    const std::vector<std::string> languages = {
-        "Modern C++ (11/14/17/20)",
-        "Template Metaprogramming",
-        "CRTP & Type Erasure",
-        "Concurrency & Parallelism"
-    };
-    
-    const std::map<std::string, std::string> frameworks = {
-        {"GUI", "Qt Framework"},
-        {"Networking", "Asio/Boost"},
-        {"Build", "CMake & Presets"},
-        {"Testing", "Unit & Integration"}
-    };
-}
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Performance & Architecture
-
-```cpp
-class SystemArchitect {
+class Developer {
 private:
-    std::unique_ptr<MemoryPool> memory_mgr;
-    std::shared_ptr<ThreadPool> workers;
-    std::atomic<bool> high_performance{true};
+    std::string name = "Your Name";
+    std::vector<std::string> languages = {"C++", "Python", "JavaScript"};
+    std::vector<std::string> specialties = {
+        "Systems Programming", 
+        "Network Development", 
+        "Multi-threading",
+        "Performance Optimization"
+    };
     
 public:
-    void optimize() {
-        // Lock-free data structures
-        // NUMA-aware memory allocation  
-        // Zero-copy networking
-        // Template specialization magic
+    void getCurrentFocus() {
+        std::cout << "🔭 Building high-performance server systems\n";
+        std::cout << "🌱 Exploring modern C++20/23 features\n";
+        std::cout << "💡 Contributing to open-source projects\n";
+        std::cout << "📚 Sharing knowledge through code and documentation\n";
     }
 };
 ```
 
-</td>
-</tr>
-</table>
+## 🛠️ Tech Arsenal
 
----
+<div align="center">
+
+
+### 💻 Languages & Frameworks
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+### 🔧 Tools & Technologies
+
+![Boost](https://img.shields.io/badge/Boost-0095D5?style=for-the-badge&logo=boost&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🗄️ Databases & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
 
 ## 🏗️ Featured Projects
 
 <div align="center">
-
-
-| 🎯 Project                                                    | 💡 Innovation                | 🚀 Tech Highlights                                         | ⭐ Status      |
-| :----------------------------------------------------------- | :-------------------------- | :-------------------------------------------------------- | :------------ |
-| **[TaskSystem](https://github.com/yourusername/TaskSystem)** | Multi-threaded Task Engine  | `CRTP` `Type Erasure` `JSON Persistence`                  | ✅ Production  |
-| **[LogSystem](https://github.com/yourusername/LogSystem)**   | Async Logging Framework     | `Producer-Consumer` `File Rotation` `Template Formatting` | ✅ Production  |
-| **[MySTL](./mystl/)**                                        | Custom STL Implementation   | `Vector` `JSON Parser` `Smart Pointers`                   | 🔄 Active      |
-| **[Memory Pool](./Memory_Pool/)**                            | High-Performance Allocator  | `Zero-Copy` `RAII` `Template Optimization`                | ✅ Complete    |
-| **[Server Project](./Server_Project/)**                      | Network Server Architecture | `Asio` `WebSocket` `Multi-threading`                      | 🚧 Development |
-
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌐 LogicServer</h3>
+        <div align="center">
+          <a href="https://github.com/yourusername/LogicServer" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=LogicServer&theme=tokyonight" />
+          </a>
+          <p>
+            <a href="https://github.com/yourusername/LogicServer" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=flat-square&logo=github" />
+            </a>
+          </p>
+          <p><strong>High-Performance Network Server</strong></p>
+          <p>🚀 Built with Boost.Asio featuring multi-threading, connection pooling, and scalable architecture for handling 10,000+ concurrent connections.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📝 LogSystem</h3>
+        <div align="center">
+          <a href="https://github.com/yourusername/LogSystem" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=LogSystem&theme=tokyonight" />
+          </a>
+          <p>
+            <a href="https://github.com/yourusername/LogSystem" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=flat-square&logo=github" />
+            </a>
+          </p>
+          <p><strong>Async Logging Framework</strong></p>
+          <p>⚡ Thread-safe asynchronous logging system with automatic file rotation, supporting 100K+ messages/second throughput.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📋 TaskSystem</h3>
+        <div align="center">
+          <a href="https://github.com/yourusername/TaskSystem" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=TaskSystem&theme=tokyonight" />
+          </a>
+          <p>
+            <a href="https://github.com/yourusername/TaskSystem" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=flat-square&logo=github" />
+            </a>
+          </p>
+          <p><strong>Modern Task Management</strong></p>
+          <p>💡 Lightweight task management system with CRTP architecture, JSON persistence, and interactive CLI interface.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎓 CPP_Learn</h3>
+        <div align="center">
+          <a href="https://github.com/yourusername/CPP_learn" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=CPP_learn&theme=tokyonight" />
+          </a>
+          <p>
+            <a href="https://github.com/yourusername/CPP_learn" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=flat-square&logo=github" />
+            </a>
+          </p>
+          <p><strong>C++ Learning Repository</strong></p>
+          <p>📚 Comprehensive collection of C++ fundamentals, STL implementations, memory pool, and advanced concepts with practical examples.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+## 🏆 Achievements & Expertise
 
-## 🧠 Technical Deep Dive
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
+        <br><strong>Systems Programming</strong>
+        <br>High-performance server development
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="60" height="60"/>
+        <br><strong>Network Programming</strong>
+        <br>Boost.Asio & concurrent connections
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Boost.svg" width="60" height="60"/>
+        <br><strong>Multi-threading</strong>
+        <br>Thread pools & async processing
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="60" height="60"/>
+        <br><strong>Build Systems</strong>
+        <br>CMake & cross-platform development
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🔬 System Programming Expertise
+## 📊 GitHub Analytics
 
-<details>
-<summary><b>🚀 High-Performance Computing</b></summary>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-```cpp
-// Memory Pool Implementation - Zero Allocation Overhead
-template<size_t BlockSize, size_t BlockCount>
-class MemoryPool {
-    static_assert(BlockSize >= sizeof(void*), "Block size too small");
-    
-    alignas(std::max_align_t) char pool[BlockSize * BlockCount];
-    std::atomic<void*> free_list{nullptr};
-    
-public:
-    void* allocate() noexcept {
-        return lockfree_pop(free_list);
-    }
-    
-    void deallocate(void* ptr) noexcept {
-        lockfree_push(free_list, ptr);
-    }
-};
-```
-
-**Key Features:**
-
-- 🎯 **Lock-free** memory allocation
-- ⚡ **O(1)** allocation/deallocation
-- 🔒 **Thread-safe** without mutex overhead
-- 📊 **Memory alignment** optimization
-
-</details>
-
-<details>
-<summary><b>🔄 Asynchronous Programming</b></summary>
-
-
-```cpp
-// Producer-Consumer Logging System
-class AsyncLogger {
-    using LogQueue = concurrent_queue<LogMessage>;
-    
-    LogQueue message_queue;
-    std::atomic<bool> shutdown_flag{false};
-    std::thread consumer_thread;
-    
-public:
-    template<typename... Args>
-    void log(LogLevel level, std::string_view format, Args&&... args) {
-        auto msg = format_message(format, std::forward<Args>(args)...);
-        message_queue.push({level, std::move(msg), std::chrono::now()});
-    }
-    
-    void async_consumer() {
-        while (!shutdown_flag.load()) {
-            process_batch(message_queue.try_pop_batch(100));
-        }
-    }
-};
-```
-
-**Architecture Benefits:**
-
-- 🚀 **Non-blocking** log operations
-- 📈 **100K+ messages/sec** throughput
-- 🔧 **Configurable** batch processing
-- 💾 **Automatic** file rotation
-
-</details>
-
-<details>
-<summary><b>🎨 Modern C++ Design Patterns</b></summary>
-
-
-```cpp
-// CRTP Command Pattern with Type Erasure
-template<typename Derived>
-class Command {
-public:
-    void execute() { static_cast<Derived*>(this)->do_execute(); }
-    bool can_undo() const { return static_cast<const Derived*>(this)->can_undo_impl(); }
-};
-
-class CommandWrapper {
-    struct CommandConcept {
-        virtual ~CommandConcept() = default;
-        virtual void execute() = 0;
-        virtual std::unique_ptr<CommandConcept> clone() const = 0;
-    };
-    
-    template<typename T>
-    struct CommandModel : CommandConcept {
-        T command;
-        CommandModel(T cmd) : command(std::move(cmd)) {}
-        void execute() override { command.execute(); }
-        auto clone() const -> std::unique_ptr<CommandConcept> override {
-            return std::make_unique<CommandModel>(command);
-        }
-    };
-    
-    std::unique_ptr<CommandConcept> cmd_ptr;
-};
-```
-
-**Design Advantages:**
-
-- 🎯 **Compile-time** polymorphism via CRTP
-- 🔄 **Runtime** flexibility with type erasure
-- 📦 **Zero-overhead** abstraction
-- 🔧 **Extensible** command system
-
-</details>
-
----
-
-## 📊 Performance Metrics
+## 💡 Development Philosophy
 
 <div align="center">
 
 
 ```
-🚀 BENCHMARK RESULTS
-╭─────────────────────────────────────────────────────────╮
-│                    System Performance                   │
-├─────────────────────────────────────────────────────────┤
-│ Memory Pool      │ 🔥 ~50ns allocation time             │
-│ Async Logger     │ ⚡ >100K msgs/sec throughput         │
-│ Task System      │ 🎯 <1ms task scheduling latency     │
-│ Custom Vector    │ 📈 99.8% STL compatibility          │
-│ Thread Pool      │ 🔄 Auto-scaling worker threads      │
-╰─────────────────────────────────────────────────────────╯
+┌─────────────────────────────────────────────────────────────────┐
+│  "Clean code is not written by following a set of rules.       │
+│   Clean code is written by programmers who care about          │
+│   making their code readable for others."                      │
+│                                        - Robert C. Martin      │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
----
+- 🎯 **Performance First**: Writing efficient, optimized code that scales
+- 🔒 **Thread Safety**: Building robust concurrent systems
+- 📖 **Clean Architecture**: Following SOLID principles and modern C++ best practices
+- 🤝 **Collaboration**: Sharing knowledge and contributing to the community
 
-## 🎓 Knowledge Arsenal
-
-### 📚 Advanced Concepts Mastered
-
-<table>
-<tr>
-<td width="33%">
-
-
-**🧬 Template Metaprogramming**
-
-- SFINAE & Concepts
-- Variadic Templates
-- Template Specialization
-- Compile-time Computation
-
-</td>
-<td width="33%">
-
-**🔀 Concurrency & Parallelism**
-
-- Lock-free Data Structures
-- Memory Models & Atomics
-- Producer-Consumer Patterns
-- Thread Pool Architecture
-
-</td>
-<td width="33%">
-
-**🏗️ System Design**
-
-- RAII & Smart Pointers
-- Move Semantics
-- Exception Safety
-- Performance Optimization
-
-</td>
-</tr>
-</table>
-
-### 🛠️ Development Workflow
-
-```mermaid
-graph LR
-    A[🎯 Design] --> B[⚡ Implement]
-    B --> C[🧪 Test]
-    C --> D[📊 Benchmark]
-    D --> E[🔧 Optimize]
-    E --> F[📦 Deploy]
-    F --> A
-    
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4  
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-    style E fill:#FFEAA7
-    style F fill:#DDA0DD
-```
-
----
-
-## 🌐 Project Architecture
+## 🌐 Connect With Me
 
 <div align="center">
-
-
-```
-📁 CPP_PORTFOLIO_ARCHITECTURE
-├── 🏭 Production Systems
-│   ├── TaskSystem/          # Multi-threaded Task Management
-│   ├── LogSystem/           # Asynchronous Logging Framework  
-│   └── Memory_Pool/         # High-Performance Memory Manager
-├── 🎨 GUI Applications
-│   └── QT/                  # Cross-platform GUI Development
-├── 🌐 Network Programming
-│   ├── Server_Project/      # Scalable Server Architecture
-│   └── web_socket_asio_learn/   # WebSocket + Asio Integration
-├── 🧠 Core Libraries
-│   ├── mystl/               # Custom STL Implementation
-│   └── thread_learn/        # Advanced Threading Concepts
-└── 📖 Knowledge Base
-    └── base_know/           # C++ Fundamentals & Interview Prep
-```
-
-</div>
-
----
-
-## 🎯 Current Focus & Future Roadmap
-
-### 🔥 Active Development
-
-- 🚧 **Distributed Task System**: Extending TaskSystem with network capabilities
-- ⚡ **Performance Optimization**: SIMD acceleration for custom containers  
-- 🌐 **Microservices Architecture**: Building scalable C++ backend systems
-- 🎮 **Real-time Systems**: Low-latency gaming server infrastructure
-
-### 🚀 Upcoming Features
-
-```cpp
-// Future Technology Integration
-namespace Roadmap2025 {
-    constexpr auto next_features = std::array{
-        "🔮 Coroutines (C++20)",
-        "📡 gRPC Integration", 
-        "🧊 Container Orchestration",
-        "🤖 AI/ML Integration",
-        "☁️ Cloud-Native Development"
-    };
-}
-```
-
----
-
-## 📞 Connect & Collaborate
-
-<div align="center">
-
-
-**🤝 Let's Build Something Amazing Together!**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</div>
 
-
-**🎯 "Crafting High-Performance C++ Solutions with Modern Design Patterns"**
-
-```cpp
-while(learning) {
-    improve_skills();
-    build_awesome_projects();  
-    share_knowledge();
-}
-```
-
-⭐ **Star this repository if you find it inspiring!**
-
+<div align="center">
+  <em>💻 "Code is poetry written in logic" 💻</em>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
