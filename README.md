@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=C%2B%2B+Systems+Developer;High-Performance+Computing+Enthusiast;Network+Programming+Specialist" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=blue&label=Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=flat-square&color=yellow&label=Stars" />
-</div>
-
 ## 🚀 About Me
 
 ```cpp
@@ -160,17 +154,6 @@ public:
       </td>
     </tr>
   </table>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ## 💡 Development Philosophy
