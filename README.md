@@ -122,20 +122,21 @@ public:
           <p><strong>C++ Learning Repository</strong></p>
           <p>📚 Comprehensive collection of C++ fundamentals, STL implementations, memory pool, and advanced concepts with practical examples.</p>
         </div>
-      </td>
-       <td width="50%">
-        <h3 align="center">📋 CPP_Learn</h3>
+    </tr>
+      <tr>
+      <td width="50%">
+        <h3 align="center">📋 employee_table</h3>
         <div align="center">
-          <a href="https://github.com/Which-W/employment-tables" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Which-W&repo=CPP_learn&theme=tokyonight" />
+          <a href="https://github.com/Which-W/employee_table" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Which-W&repo=employee_table&theme=tokyonight" />
           </a>
           <p>
-            <a href="https://github.com/Which-W/CPP_learn" target="_blank">
+            <a href="https://github.com/Which-W/employee_table" target="_blank">
               <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=flat-square&logo=github" />
             </a>
           </p>
-          <p><strong>C++ Learning Repository</strong></p>
-          <p>📚 Comprehensive collection of C++ fundamentals, STL implementations, memory pool, and advanced concepts with practical examples.</p>
+          <p><strong> a django exmple employee_table</strong></p>
+          <p>💡 The Django employee_table exemplifies a robust, ORM-driven database model that elegantly structures employee data with scalable fields, intuitive relationships, and efficient querying capabilities.</p>
         </div>
       </td>
     </tr>
