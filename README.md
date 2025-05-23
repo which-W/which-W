@@ -143,7 +143,7 @@ public:
         <br>Boost.Asio & concurrent connections
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Boost.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
         <br><strong>Multi-threading</strong>
         <br>Thread pools & async processing
       </td>
