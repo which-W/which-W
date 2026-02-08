@@ -32,38 +32,6 @@ public:
 
 <div align="center">
 
-
-
-
-## 🏆 Achievements & Expertise
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
-        <br><strong>Systems Programming</strong>
-        <br>High-performance server development
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="60" height="60"/>
-        <br><strong>Network Programming</strong>
-        <br>Boost.Asio & concurrent connections
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
-        <br><strong>Multi-threading</strong>
-        <br>Thread pools & async processing
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="60" height="60"/>
-        <br><strong>Build Systems</strong>
-        <br>CMake & cross-platform development
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 💡 Development Philosophy
 
 <div align="center">
